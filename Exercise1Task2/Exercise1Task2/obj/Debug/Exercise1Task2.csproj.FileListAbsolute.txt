@@ -1,0 +1,11 @@
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\bin\Debug\Exercise1Task2.exe.config
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\bin\Debug\Exercise1Task2.exe
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\bin\Debug\Exercise1Task2.pdb
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\obj\Debug\Exercise1Task2.csproj.AssemblyReference.cache
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\obj\Debug\Exercise1Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\obj\Debug\Exercise1Task2.Form1.resources
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\obj\Debug\Exercise1Task2.Properties.Resources.resources
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\obj\Debug\Exercise1Task2.csproj.GenerateResource.cache
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\obj\Debug\Exercise1Task2.csproj.CoreCompileInputs.cache
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\obj\Debug\Exercise1Task2.exe
+C:\Users\andru\source\repos\Exercise1Task2\Exercise1Task2\obj\Debug\Exercise1Task2.pdb
